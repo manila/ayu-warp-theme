@@ -1,1 +1,3 @@
 # Warp Ayu theme
+
+### Install
